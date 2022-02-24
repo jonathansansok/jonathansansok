@@ -1,4 +1,4 @@
-Hi there, I'm Jonathan! 👋
+Hi there, I'm Jonathan! 👋 
 I'm a Full Stack and sound engineering student
 🔭 I’m currently learning Full Stack Development on Coder-House
     and sound engineering on In.Ar.Tec.
