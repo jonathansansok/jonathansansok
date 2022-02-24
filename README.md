@@ -1,16 +1,42 @@
-### Hi there 👋
+Hi there, I'm Jonathan! 👋
+I'm a Full Stack and sound engineering student
+🔭 I’m currently learning Full Stack Development on Coder-House
+    and sound engineering on In.Ar.Tec.
+💓 ReactJs is my best friend
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: To keep learning and developing awesome projects 🏅
+⚡ Fun fact: I am also an musician and federal agent
 
-<!--
-**jonathansansok/jonathansansok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Languages and Tools:
+Visual Studio Code
 
-Here are some ideas to get you started:
+Html5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS3
+
+SASS
+
+Javascript
+
+React Js
+
+Bootstrap
+
+Laravel
+
+PHP
+
+MySQL
+
+Git
+
+Figma
+
+Adobe Illustrator
+
+Adobe Photoshop
+
+
+
+💬 Connect with me
+Twitter Badge Linkedin Badge
