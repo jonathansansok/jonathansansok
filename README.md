@@ -1,5 +1,8 @@
 Hi there, I'm Jonathan! 👋 
 
+![PORTADA](https://user-images.githubusercontent.com/91910562/155451751-9f996789-9739-4724-9d6d-deacaacd1dc2.png)
+
+
 I'm a  🎧 sound engineering
 
 📖 I’m currently learning Full Stack Development on Coder-House
