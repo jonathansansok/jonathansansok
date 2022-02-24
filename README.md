@@ -3,7 +3,7 @@ Hi there, I'm Jonathan! 👋
 ![banner sans](https://user-images.githubusercontent.com/91910562/155452337-5c1f2cac-7025-4893-b769-00696c876ceb.png)
 
 
-I'm a  🎧 sound engineering
+🥇 I'm a sound engineering
 
 📖 I’m currently learning Full Stack Development on Coder-House
 
@@ -19,4 +19,4 @@ I'm a  🎧 sound engineering
 
 �Visual Studio Code
 
-Html5 - CSS3 - SASS - Bootstrap - Javascript - ReactJs - Node - Mongo - Deno - Laravel - PHP - MySQL - Git - Figma
+Html5 - CSS3 - SASS - Bootstrap - Javascript - ReactJs - Node - Mongo - Deno - Laravel - PHP - MySQL - Git - Figma -
