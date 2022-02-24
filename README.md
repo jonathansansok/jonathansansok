@@ -4,6 +4,7 @@ I'm a Full Stack and sound engineering student
 
 🔭 I’m currently learning Full Stack Development on Coder-House
     and sound engineering on In.Ar.Tec.
+    
 💓 ReactJs is my best friend
 
 👯 I’m looking to collaborate with other content creators
