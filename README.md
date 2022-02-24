@@ -16,11 +16,11 @@ CSS3
 
 SASS
 
+Bootstrap
+
 Javascript
 
 React Js
-
-Bootstrap
 
 Laravel
 
@@ -31,12 +31,6 @@ MySQL
 Git
 
 Figma
-
-Adobe Illustrator
-
-Adobe Photoshop
-
-
 
 💬 Connect with me
 Twitter Badge Linkedin Badge
