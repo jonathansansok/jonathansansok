@@ -1,6 +1,6 @@
 Hi there, I'm Jonathan! 👋 
 
-![PORTADA](https://user-images.githubusercontent.com/91910562/155451751-9f996789-9739-4724-9d6d-deacaacd1dc2.png)
+![banner sans](https://user-images.githubusercontent.com/91910562/155452337-5c1f2cac-7025-4893-b769-00696c876ceb.png)
 
 
 I'm a  🎧 sound engineering
