@@ -20,6 +20,3 @@ I'm a  🎧 sound engineering
 �Visual Studio Code
 
 Html5 - CSS3 - SASS - Bootstrap - Javascript - ReactJs - Node - Mongo - Deno - Laravel - PHP - MySQL - Git - Figma
-
-💬 Connect with me
-Twitter Badge Linkedin Badge
