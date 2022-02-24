@@ -16,27 +16,7 @@ I'm a Full Stack and sound engineering student
 
 Visual Studio Code
 
-Html5
-
-CSS3
-
-SASS
-
-Bootstrap
-
-Javascript
-
-React Js
-
-Laravel
-
-PHP
-
-MySQL
-
-Git
-
-Figma
+Html5 - CSS3 - SASS - Bootstrap - Javascript - ReactJs - Node - Mongo - Deno - Laravel - PHP - MySQL - Git - Figma
 
 💬 Connect with me
 Twitter Badge Linkedin Badge
