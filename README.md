@@ -15,7 +15,7 @@ I'm a Full Stack and sound engineering student
 
 🧰 Languages and Tools:
 
-Visual Studio Code
+📷Visual Studio Code
 
 Html5 - CSS3 - SASS - Bootstrap - Javascript - ReactJs - Node - Mongo - Deno - Laravel - PHP - MySQL - Git - Figma
 
