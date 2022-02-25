@@ -21,7 +21,7 @@ const jonathansanso = {
 
 ⚛️ ReactJs is my best friend 
 
-👯 I’m looking to collaborate with other content creators
+👐 I’m looking to collaborate with other content creators
 
 🥅 2022 Goals: To keep learning and developing awesome projects
 
