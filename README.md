@@ -2,6 +2,8 @@
 
 ![banner sans](https://user-images.githubusercontent.com/91910562/155452337-5c1f2cac-7025-4893-b769-00696c876ceb.png)
 
+## About me in code
+
 ```js
 const jonathansanso = {
        pronouns: "he" | "him",
