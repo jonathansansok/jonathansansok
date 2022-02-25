@@ -23,7 +23,7 @@ const jonathansanso = {
 
 🥅 2022 Goals: To keep learning and developing awesome projects
 
-⚡ Fun fact: I am also a 🎶 musician and ⚖️federal agent
+⚡ Fun fact: I am also a musician🎶 and federal agent⚖️
 
 [![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
 
