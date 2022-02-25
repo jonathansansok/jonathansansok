@@ -11,9 +11,9 @@ const jonathansanso = {
 ```
      
 You can find me 🌍:
-- [LinkedIn] (https://www.linkedin.com/in/jonathan-sans%C3%B3-4407aa15a)
-- [instagram] (https://www.instagram.com/jonathan.sanso/)
-- [Spotify] (https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
+- [LinkedIn](https://www.linkedin.com/in/jonathan-sans%C3%B3-4407aa15a)
+- [instagram](https://www.instagram.com/jonathan.sanso/)
+- [Spotify](https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
 
 🥇 I'm a sound engineering
 
