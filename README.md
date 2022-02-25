@@ -7,7 +7,7 @@
 ```js
 const jonathansanso = {
        pronouns: "he" | "him",
-       code: (HTML, CSS, Javascript),
+       code: (Html, Css, Javascript),
        tools: (React, Node, Mongo, Deno)
 }
 ```
