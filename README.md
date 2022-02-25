@@ -2,12 +2,12 @@
 
 ![banner sans](https://user-images.githubusercontent.com/91910562/155452337-5c1f2cac-7025-4893-b769-00696c876ceb.png)
 
-```
+```js
 const jonathansanso = {
        pronouns: "he" | "him",
        code: (HTML, CSS, Javascript),
        tools: (React, Node, Mongo, Deno)
-       }
+}
 ```
      
 ## You can find me 🌍:
