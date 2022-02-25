@@ -11,11 +11,7 @@ const jonathansanso = {
        tools: (React, Node, Mongo, Deno)
 }
 ```
-     
-## You can find me 🌍:
-- [LinkedIn](https://www.linkedin.com/in/jonathan-sans%C3%B3-4407aa15a)
-- [instagram](https://www.instagram.com/jonathan.sanso/)
-- [Spotify](https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
+## Who I´am - What i do:
 
 🥇 I'm a sound engineering
 
@@ -30,3 +26,9 @@ const jonathansanso = {
 ⚡ Fun fact: I am also a 🎶 musician and ⚖️federal agent
 
 [![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
+
+     
+## You can find me 🌍:
+- [LinkedIn](https://www.linkedin.com/in/jonathan-sans%C3%B3-4407aa15a)
+- [instagram](https://www.instagram.com/jonathan.sanso/)
+- [Spotify](https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
