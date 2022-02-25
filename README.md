@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan! 👋 
 
-![banner sans](https://user-images.githubusercontent.com/91910562/155452337-5c1f2cac-7025-4893-b769-00696c876ceb.png)
+![banner sans 3](https://user-images.githubusercontent.com/91910562/155771810-c9d4e810-ebcc-49b4-b8c5-c544bb95c5a7.jpg)
 
 ## About me in code
 
