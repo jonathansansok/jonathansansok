@@ -19,7 +19,7 @@ const jonathansanso = {
 
 📖 I’m currently learning Full Stack Development on Coder-House
 
-💓 ReactJs is my best friend
+⚛️ ReactJs is my best friend 
 
 👯 I’m looking to collaborate with other content creators
 
