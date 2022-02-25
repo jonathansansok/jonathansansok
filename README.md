@@ -9,8 +9,6 @@ const jonathansanso = {
        tools: (React, Node, Mongo, Deno)
        }
 ```
-[![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
-
      
 You can find me 🌍:
 - [LinkedIn](https://www.linkedin.com/in/jonathan-sans%C3%B3-4407aa15a)
@@ -29,8 +27,4 @@ You can find me 🌍:
 
 ⚡ Fun fact: I am also a 🎶 musician and ⚖️federal agent
 
-🧰 Languages and Tools:
-
-�Visual Studio Code
-
-Html5 - CSS3 - SASS - Bootstrap - Javascript - ReactJs - Node - Mongo - Deno - Laravel - PHP - MySQL - Git - Figma -
+[![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
