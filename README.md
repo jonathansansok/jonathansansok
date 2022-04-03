@@ -29,6 +29,6 @@ const jonathansanso = {
 
      
 ##  🌍 You can find me in:
-- [LinkedIn](https://www.linkedin.com/in/jonathan-sanso-fullstacka)
+- [LinkedIn](https://www.linkedin.com/in/jonathan-sanso-fullstack)
 - [instagram](https://www.instagram.com/jonathan.sanso/)
 - [Spotify](https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
