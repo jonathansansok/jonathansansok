@@ -13,6 +13,21 @@ const jonathansanso = {
 ```
 ## Who I´am - What i do:
 
+
+⚡ Portfolio: [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [Real-client](https://jonathansansok.github.io/virtua-state-web) • [Sound-web](https://more-art-more-tech-my-web.netlify.app/)
+
+🥇 I'm a sound engineering
+
+📖 I’m currently learning Full Stack Development on [Coder-House](https://www.coderhouse.com) and programming technician on [Teclab](https://www.teclab.edu.ar/)
+
+⚛️ ReactJs is my best friend 
+
+👐 I’m looking to collaborate with other content creators
+
+🥅 2022 Goals: To keep learning and developing awesome projects
+
+⚡ Fun fact: I am also a musician🎶 and federal agent⚖️
+
 <p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -65,19 +80,6 @@ const jonathansanso = {
 </p>
 
 
-⚡ Portfolio: [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [Real-client](https://jonathansansok.github.io/virtua-state-web) • [Sound-web](https://more-art-more-tech-my-web.netlify.app/)
-
-🥇 I'm a sound engineering
-
-📖 I’m currently learning Full Stack Development on [Coder-House](https://www.coderhouse.com) and programming technician on [Teclab](https://www.teclab.edu.ar/)
-
-⚛️ ReactJs is my best friend 
-
-👐 I’m looking to collaborate with other content creators
-
-🥅 2022 Goals: To keep learning and developing awesome projects
-
-⚡ Fun fact: I am also a musician🎶 and federal agent⚖️
 
 [![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
 
