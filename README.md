@@ -37,9 +37,8 @@ const jonathansanso = {
       alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a> 
+       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
@@ -48,17 +47,20 @@ const jonathansanso = {
       height="40" /> </a><a href="https://github.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40"
       height="40" /> </a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
-      src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
-      height="40" /> </a>
-    <a href="https://www.lua.org/home.html" target="_blank" rel="noreferrer"> <img  src="https://camo.githubusercontent.com/1f48342dccb964f1203624b2dc94ae54f58160860e7b1ed9c3c830ea85c9b3c6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f312a4757514142572d70384f705a4b6a4e4e3131704d58412e706e67" alt="lua" width="40"
-      height="40" /> </a>
     <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img  src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="40"
       height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg" alt="Visual Studio" width="40"
       height="40" /> </a>
     <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> <img  src="https://webpamplona.com/wp-content/uploads/2014/05/wordpress-logo.jpg" alt="Wordpress" width="40"
       height="40" /> </a>
+           <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
+      src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
+      height="40" /> </a>
+    <a href="https://www.lua.org/home.html" target="_blank" rel="noreferrer"> <img  src="https://camo.githubusercontent.com/1f48342dccb964f1203624b2dc94ae54f58160860e7b1ed9c3c830ea85c9b3c6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f312a4757514142572d70384f705a4b6a4e4e3131704d58412e706e67" alt="lua" width="40"
+      height="40" /> </a>
+       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> 
     
 </p>
 
