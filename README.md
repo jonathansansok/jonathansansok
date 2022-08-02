@@ -13,7 +13,7 @@ const jonathansanso = {
 ```
 ## Who I´am - What i do:
 
-⚡ Portfolio: [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/)  [Real-client](https://jonathansansok.github.io/virtua-state-web) [Sound-web](https://more-art-more-tech-my-web.netlify.app/
+⚡ Portfolio: [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/)  [Real-client](https://jonathansansok.github.io/virtua-state-web) [Sound-web](https://more-art-more-tech-my-web.netlify.app/)
 
 🥇 I'm a sound engineering
 
