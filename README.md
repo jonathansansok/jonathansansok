@@ -7,8 +7,8 @@
 ```js
 const jonathansanso = {
        pronouns: "he" | "him";
-       code: {Html, Css, Javascript, React, Node, Mongo, Deno};
-       living: {Art, Technology, Sports, Nature};
+       code: ["Html", "Css", "Javascript", "React", "Node", "Mongo", "Deno"];
+       living: {"Art", "Technology", "Sports", "Nature"};
        }
 ```
 ## Who I´am - What i do:
