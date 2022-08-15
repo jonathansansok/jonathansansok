@@ -6,7 +6,7 @@
 
 ```js
 const jonathansanso = {
-       pronouns: "he" | "him";
+       pronouns: {"he", "him"};
        code: ["Html", "Css", "Javascript", "React", "Node", "Mongo", "Deno"];
        living: {"Art", "Technology", "Sports", "Nature"};
        }
