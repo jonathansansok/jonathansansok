@@ -28,6 +28,7 @@ const jonathansanso = {
 
 ⚡ Fun fact: I am also a musician🎶 and federal agent⚖️
 
+
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -97,7 +98,14 @@ const jonathansanso = {
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -182,8 +190,6 @@ const jonathansanso = {
     />
   </a>
 </p>
-
-
 
 
 [![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
