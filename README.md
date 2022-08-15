@@ -20,7 +20,7 @@ const jonathansanso = {
 
 📖 I’m currently learning Full Stack Development on [Coder-House](https://www.coderhouse.com) and programming technician on [Teclab](https://www.teclab.edu.ar/)
 
-⚛️ ReactJs is my best friend 
+⚛️ ReactJs is my best way
 
 👐 I’m looking to collaborate with other content creators
 
