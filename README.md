@@ -82,14 +82,6 @@ const jonathansanso = {
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://i.pinimg.com/564x/09/7b/34/097b349ab1d78c15744c3a89ff457939--technology-logo-vector-free.jpg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -106,7 +98,14 @@ const jonathansanso = {
       height="40"
     />
   </a>
-
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://i.pinimg.com/564x/09/7b/34/097b349ab1d78c15744c3a89ff457939--technology-logo-vector-free.jpg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
@@ -173,13 +172,13 @@ const jonathansanso = {
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
       width="40"
       height="40"
-    />
+    /> -->
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
@@ -190,6 +189,7 @@ const jonathansanso = {
     />
   </a>
 </p>
+
 
 
 [![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
