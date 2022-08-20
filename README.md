@@ -13,10 +13,10 @@ const jonathansanso = {
 ```
 ## Who I´am - What i do:
 
-
-⚡ Portfolio: [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [Real-client](https://jonathansansok.github.io/virtua-state-web) • [Sound-web](https://more-art-more-tech-my-web.netlify.app/)
-
 🥇 I'm a Front-end Developer. 
+
+
+⚡ Portfolio: [Real-client]([https://jonathansansok.github.io/virtua-state-web] • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • (https://jonathansansok.github.io/Client-VirtuaState-web/)) • [Sound-web](https://more-art-more-tech-my-web.netlify.app/)
 
 📖 I’m currently learning Back-end in [Coder-House](https://www.coderhouse.com) and programming technician in [Teclab](https://www.teclab.edu.ar/)
 
