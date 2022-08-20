@@ -16,9 +16,9 @@ const jonathansanso = {
 
 ⚡ Portfolio: [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [Real-client](https://jonathansansok.github.io/virtua-state-web) • [Sound-web](https://more-art-more-tech-my-web.netlify.app/)
 
-🥇 I'm a sound engineering
+🥇 I'm a Front-end Developer. 
 
-📖 I’m currently learning Full Stack Development on [Coder-House](https://www.coderhouse.com) and programming technician on [Teclab](https://www.teclab.edu.ar/)
+📖 I’m currently learning Back-end in [Coder-House](https://www.coderhouse.com) and programming technician in [Teclab](https://www.teclab.edu.ar/)
 
 ⚛️ ReactJs is my best way
 
@@ -26,7 +26,7 @@ const jonathansanso = {
 
 🥅 2022 Goals: To keep learning and developing awesome projects
 
-⚡ Fun fact: I am also a musician🎶 and federal agent⚖️
+⚡ Fun fact: I am also a musician-sound engineer 🎶 and federal agent⚖️
 
 
 <p align="center">
