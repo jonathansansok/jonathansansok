@@ -13,7 +13,7 @@ const jonathansanso = {
 ```
 ## Who I´am - What i do:
 
-🥇 I'm a Front-end Developer. 
+🥇 I'm a Front-end React Developer. 
 
 
 ⚡ Portfolio: [Real-client](https://jonathansansok.github.io/Client-VirtuaState-web/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://more-art-more-tech-my-web.netlify.app/)
