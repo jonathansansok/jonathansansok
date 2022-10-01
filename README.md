@@ -16,7 +16,7 @@ const jonathansanso = {
 🥇 I'm a Front-end React Developer. 
 
 
-⚡ Portfolio: [Real-client](https://jonathansansok.github.io/virtua-state-web/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/)
+⚡ Portfolio: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/)
 
 📖 I’m currently learning Back-end in [Coder-House](https://www.coderhouse.com) and programming technician in [Teclab](https://www.teclab.edu.ar/)
 
