@@ -4,7 +4,7 @@
 
 ⚡ Portfolio: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/) • [Back-end E-commerce](https://github.com/jonathansansok/backend-pre-entrega1.git) • [Back-end Chat](https://github.com/jonathansansok/desafio-router-backend.git)
 
-##  🌍 Contact me with:
+##  🌍 Contact me:
 - [What´s App](https://wa.me/5491169123268)
 - [LinkedIn](https://www.linkedin.com/in/jonathan-sanso-fullstack)
 - [instagram](https://www.instagram.com/jonathan.sanso/)
