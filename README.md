@@ -4,6 +4,11 @@
 
 ⚡ Portfolio: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/) • [Back-end E-commerce](https://github.com/jonathansansok/backend-pre-entrega1.git) • [Back-end Chat](https://github.com/jonathansansok/desafio-router-backend.git)
 
+##  🌍 You can find me in:
+- [LinkedIn](https://www.linkedin.com/in/jonathan-sanso-fullstack)
+- [instagram](https://www.instagram.com/jonathan.sanso/)
+- [Spotify](https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
+
 ## About me in code
 
 ```js
@@ -197,8 +202,4 @@ const jonathansanso = {
 
 [![jonathansanso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok/github-readme-stats)
 
-     
-##  🌍 You can find me in:
-- [LinkedIn](https://www.linkedin.com/in/jonathan-sanso-fullstack)
-- [instagram](https://www.instagram.com/jonathan.sanso/)
-- [Spotify](https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
+ 
