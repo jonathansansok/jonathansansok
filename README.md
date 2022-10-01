@@ -14,8 +14,8 @@ const jonathansanso = {
        }
 ```
 ## Who I´am - What i do:
-
-🥇 I'm a Front-end React Developer. 
+~~#¬
+🥇 I'm a Front-end React Developer. Student of Back-end & higher degree in Programming
 
 
 ⚡ Portfolio: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/) • [Back-end E-commerce](https://github.com/jonathansansok/backend-pre-entrega1.git) • [Back-end Chat](https://github.com/jonathansansok/desafio-router-backend.git)
