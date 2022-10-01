@@ -2,6 +2,8 @@
 
 ![banner sans 3](https://user-images.githubusercontent.com/91910562/155771810-c9d4e810-ebcc-49b4-b8c5-c544bb95c5a7.jpg)
 
+⚡ Portfolio: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/) • [Back-end E-commerce](https://github.com/jonathansansok/backend-pre-entrega1.git) • [Back-end Chat](https://github.com/jonathansansok/desafio-router-backend.git)
+
 ## About me in code
 
 ```js
@@ -16,7 +18,8 @@ const jonathansanso = {
 🥇 I'm a Front-end React Developer. 
 
 
-⚡ Portfolio: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/)
+⚡ Portfolio: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [html-css-Js-web](https://art-tech-responsive.netlify.app/) • [Back-end E-commerce](https://github.com/jonathansansok/backend-pre-entrega1.git) • [Back-end Chat](https://github.com/jonathansansok/desafio-router-backend.git)
+
 
 📖 I’m currently learning Back-end in [Coder-House](https://www.coderhouse.com) and programming technician in [Teclab](https://www.teclab.edu.ar/)
 
