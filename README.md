@@ -7,7 +7,7 @@
 ##  🌍 Contact me:
 - [What´s App](https://wa.me/5491169123268)
 - [LinkedIn](https://www.linkedin.com/in/jonathan-sanso-fullstack)
-- [instagram](https://www.instagram.com/jonathan.sanso/)
+- [instagram](https://www.instagram.com/jon.sanso/)
 - [Spotify](https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81) 
 
 ## About me in code
