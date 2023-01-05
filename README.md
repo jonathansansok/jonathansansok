@@ -13,11 +13,12 @@
 ## About me in code
 
 ```js
-const jonathansanso = {
-       pronouns: {"he", "him"};
-       code: {"Html", "Css", "Javascript", "React", "Node", "Mongo", "Deno"};
-       living: {"Art", "Technology", "Sports", "Nature"};
-       }
+const jonathanSanso = [
+  { pronouns: ["he", "him"] },
+  { code: ["Html", "Css", "Javascript", "React", "Node", "Mongo", "Deno"] },
+  { living: ["Art", "Technology", "Sports", "Nature"] },
+];
+
 ```
 ## Who I´am - What i do:
 
