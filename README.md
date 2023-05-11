@@ -22,19 +22,19 @@ const jonathanSanso = [
 ```
 ## Who I´am - What i do:
 
-🥇 I'm Front-end React & Back-end Node Developer. Student of higher degree in Programming
+🥇 I'm Front-end React & Back-end Node Developer. Student of higher degree in Programming.
 
 ⚡ Portfolio:  [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [Aprendo-nextjs](https://github.com/jonathansansok/next-js-jonathan-sanso.git) • [html-css-Js-web](https://art-tech-responsive.netlify.app/) • [Back-end E-commerce](https://github.com/jonathansansok/backend-pre-entrega1.git) • [Back-end Chat](https://github.com/jonathansansok/desafio-router-backend.git) • [Landing-page-portfolio](https://portfolio-sanso-jonathan.netlify.app/) • [Back-end-Final-thunderClient-front-end](https://github.com/jonathansansok/preEntregaFinal3.git)
 
-📖 I’m currently learning Back-end in [Coder-House](https://www.coderhouse.com) and programming technician in [Teclab](https://www.teclab.edu.ar/)
+📖 I’m currently learning TypeScript, Next.js, Jquery and AJAX.
 
-⚛️ ReactJs is my best way
+⚛️ ReactJs is my best way.
 
-👐 I’m looking to collaborate with other content creators
+👐 I’m looking to collaborate with other content creators.
 
-🥅 2022 Goals: To keep learning and developing awesome projects
+🥅 2022 Goals: To keep learning and developing awesome projects.
 
-⚡ Fun fact: I am also a musician-sound engineer 🎶 and federal agent⚖️
+⚡ Fun fact: I am also a musician-sound engineer 🎶 and federal agent⚖️.
 
 
 
