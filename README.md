@@ -24,7 +24,7 @@ const jonathanSanso = [
 
 🥇 I'm Front-end React & Back-end Node Developer. Student of higher degree in Programming.
 
-⚡ Portfolio:  [⚡ Portfolio Link](https://portfolio-sanso-jonathan.netlify.app/) 
+[⚡ Portfolio Link](https://portfolio-sanso-jonathan.netlify.app/) 
 
 📖 I’m currently learning TypeScript, Next.js, Jquery and AJAX.
 
