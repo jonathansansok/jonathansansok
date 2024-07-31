@@ -22,7 +22,7 @@ const jonathanSanso = [
 ```
 ## Who I´am - What i do:
 
-🥇 I'm Front-end React & Back-end Node Developer. Student of higher degree in Programming.
+🥇 I'm Front-end React & Back-end Node Developer. Higher degree in Programming.
 
 [⚡ Portfolio Link](https://portfolio-sanso-jonathan.netlify.app/) 
 
