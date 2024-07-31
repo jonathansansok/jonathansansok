@@ -15,7 +15,7 @@
 ```js
 const jonathanSanso = [
   { pronouns: ["he", "him"] },
-  { code: ["Html", "Css", "Javascript", "React", "Node", "Mongo", "Deno"] },
+  { code: ["Html", "Css", "Javascript", "React", "Node", "Mongo", "PostgreSQL"] },
   { living: ["Art", "Technology", "Sports", "Nature"] },
 ];
 
