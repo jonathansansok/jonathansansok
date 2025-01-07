@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan! 👋 
 
-<img src="https://github.com/jonathansansok/jonathansansok/blob/main/jonathan-sanso-%20FrontBack-end%20at%20S.P.F.%20%E2%80%A2%20Front%20at%20VirtuaState%20%E2%80%A2%20Higher%20Technician%20in%20programming%20-%20Reactjs%20%20NextJs%20%20TypeScript%20%20CSSSASS%20%20Tailwind%20%20NestJs%20%20Express%20%20Prisma%20%20MySQL%20%20PostgreSQL%20%20MongoDB.png?raw=true" alt="banner sans 3" style="zoom: 1.2; width: 100%; max-width: 800px;">
+<img src="https://github.com/jonathansansok/jonathansansok/blob/main/jonathan-sanso-%20FrontBack-end%20at%20S.P.F.%20%E2%80%A2%20Front%20at%20VirtuaState%20%E2%80%A2%20Higher%20Technician%20in%20programming%20-%20Reactjs%20%20NextJs%20%20TypeScript%20%20CSSSASS%20%20Tailwind%20%20NestJs%20%20Express%20%20Prisma%20%20MySQL%20%20PostgreSQL%20%20MongoDB.png?raw=true" alt="banner sans 3" style="zoom: 1.5;">
 
 ⚡ My proyects: [Take a look to my porfolio to see them](https://portfolio-sanso-jonathan.netlify.app/) 
 
