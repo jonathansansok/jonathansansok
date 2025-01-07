@@ -21,36 +21,6 @@ const JonathanSanso: React.FC = () => {
     { code: ["React", "Next", "TypeScript", "CSS/SASS", "Tailwind", "Bootstrap", "Nest", "Express", "Prisma", "MySQL", "PostgreSQL", "MongoDB"] },
     { living: ["Art", "Technology", "Sports", "Nature"] },
   ];
-
-  return (
-    <div className="p-4 bg-gray-100">
-      <h1 className="text-2xl font-bold mb-4">Jonathan Sanso</h1>
-      <div className="mb-4">
-        <h2 className="text-xl font-semibold">Pronouns</h2>
-        <ul className="list-disc list-inside">
-          {jonathanSanso[0].pronouns.map((pronoun, index) => (
-            <li key={index}>{pronoun}</li>
-          ))}
-        </ul>
-      </div>
-      <div className="mb-4">
-        <h2 className="text-xl font-semibold">Technologies</h2>
-        <ul className="list-disc list-inside">
-          {jonathanSanso[1].code.map((tech, index) => (
-            <li key={index}>{tech}</li>
-          ))}
-        </ul>
-      </div>
-      <div className="mb-4">
-        <h2 className="text-xl font-semibold">Living</h2>
-        <ul className="list-disc list-inside">
-          {jonathanSanso[2].living.map((interest, index) => (
-            <li key={index}>{interest}</li>
-          ))}
-        </ul>
-      </div>
-    </div>
-  );
 };
 
 export default JonathanSanso;
@@ -58,17 +28,17 @@ export default JonathanSanso;
 ```
 ## Who I´am - What i do:
 
-🥇 I'm Front-end React & Back-end Node Developer. Higher degree in Programming.
+🥇 "I'm a Front-end React & Back-end Node Developer with a Higher Degree in Programming."
 
 [⚡ Portfolio Link](https://portfolio-sanso-jonathan.netlify.app/) 
 
-📖 I’m currently learning TypeScript, Next.js, Jquery and AJAX.
+📖 "I’m currently deepening my knowledge in the technologies mentioned above."
 
-⚛️ ReactJs is my best way.
+⚛️ NodeJs is my best way.
 
 👐 I’m looking to collaborate with other content creators.
 
-🥅 2022 Goals: To keep learning and developing awesome projects.
+🥅 2025 Goals: To keep learning and developing awesome projects.
 
 ⚡ Fun fact: I am also a musician-sound engineer 🎶 and federal agent⚖️.
 
