@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan! 👋 
 
-<img src="https://github.com/jonathansansok/jonathansansok/blob/main/banners.png?raw=true">
+<img src="https://github.com/jonathansansok/jonathansansok/blob/main/banners2.png?raw=true">
 
 ⚡ My proyects: [Take a look to my porfolio to see them](https://portfolio-sanso-jonathan.netlify.app/) 
 
