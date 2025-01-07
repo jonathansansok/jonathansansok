@@ -21,10 +21,15 @@ const JonathanSanso: React.FC = () => {
     { code: ["React", "Next", "TypeScript", "CSS/SASS", "Tailwind", "Bootstrap", "Nest", "Express", "Prisma", "MySQL", "PostgreSQL", "MongoDB"] },
     { living: ["Art", "Technology", "Sports", "Nature"] },
   ];
+
+  return (
+    <div className="p-4 bg-gray-100 text-center">
+      <h1 className="text-2xl font-bold">I love my stack</h1>
+    </div>
+  );
 };
 
 export default JonathanSanso;
-
 ```
 ## Who I´am - What i do:
 
