@@ -2,7 +2,7 @@
 
 ![banner sans 3](https://user-images.githubusercontent.com/91910562/155771810-c9d4e810-ebcc-49b4-b8c5-c544bb95c5a7.jpg)
 
-⚡ My proyects: [Take a look to my porfolio to see them]([https://virtuastate.net/](https://portfolio-sanso-jonathan.netlify.app/) 
+⚡ My proyects: [Take a look to my porfolio to see them](https://portfolio-sanso-jonathan.netlify.app/) 
 
 ##  🌍 Contact me:
 - [What´s App](https://wa.me/5491169123268)
