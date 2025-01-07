@@ -2,7 +2,7 @@
 
 ![banner sans 3](https://user-images.githubusercontent.com/91910562/155771810-c9d4e810-ebcc-49b4-b8c5-c544bb95c5a7.jpg)
 
-⚡ My proyects: [Real-client](https://virtuastate.net/) • [React-web](https://ecommerce-react-jonathan-sanso.vercel.app/) • [Aprendo-nextjs](https://github.com/jonathansansok/next-js-jonathan-sanso.git) • [html-css-Js-web](https://art-tech-responsive.netlify.app/) • [Back-end E-commerce](https://github.com/jonathansansok/backend-pre-entrega1.git) • [Back-end Chat](https://github.com/jonathansansok/desafio-router-backend.git) • [Landing-page-portfolio](https://portfolio-sanso-jonathan.netlify.app/) • [Back-end-Final-thunderClient-front-end](https://github.com/jonathansansok/preEntregaFinal3.git)
+⚡ My proyects: [Take a look to my porfolio to see them]([https://virtuastate.net/](https://portfolio-sanso-jonathan.netlify.app/) 
 
 ##  🌍 Contact me:
 - [What´s App](https://wa.me/5491169123268)
