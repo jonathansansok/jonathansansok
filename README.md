@@ -15,12 +15,18 @@
 ```js
 import React from 'react';
 
+interface JonathanSansoData {
+  pronouns: string[];
+  code: string[];
+  living: string[];
+}
+
 const JonathanSanso: React.FC = () => {
-  const jonathanSanso = [
-    { pronouns: ["he", "him"] },
-    { code: ["React", "Next", "TypeScript", "CSS/SASS", "Tailwind", "Bootstrap", "Nest", "Express", "Prisma", "MySQL", "PostgreSQL", "MongoDB"] },
-    { living: ["Art", "Technology", "Sports", "Nature"] },
-  ];
+  const jonathanSanso: JonathanSansoData = {
+    pronouns: ["he", "him"],
+    code: ["React", "Next", "TypeScript", "CSS/SASS", "Tailwind", "Bootstrap", "Nest", "Express", "Prisma", "MySQL", "PostgreSQL", "MongoDB"],
+    living: ["Art", "Technology", "Sports", "Nature"],
+  };
 
   return (
     <div className="p-4 bg-gray-100 text-center">
