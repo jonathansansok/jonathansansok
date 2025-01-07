@@ -13,11 +13,47 @@
 ## About me in code
 
 ```js
-const jonathanSanso = [
-  { pronouns: ["he", "him"] },
-  { code: ["Html", "Css", "Javascript", "React", "Node", "Mongo", "PostgreSQL"] },
-  { living: ["Art", "Technology", "Sports", "Nature"] },
-];
+import React from 'react';
+
+const JonathanSanso: React.FC = () => {
+  const jonathanSanso = [
+    { pronouns: ["he", "him"] },
+    { code: ["React", "Next", "TypeScript", "CSS/SASS", "Tailwind", "Bootstrap", "Nest", "Express", "Prisma", "MySQL", "PostgreSQL", "MongoDB"] },
+    { living: ["Art", "Technology", "Sports", "Nature"] },
+  ];
+
+  return (
+    <div className="p-4 bg-gray-100">
+      <h1 className="text-2xl font-bold mb-4">Jonathan Sanso</h1>
+      <div className="mb-4">
+        <h2 className="text-xl font-semibold">Pronouns</h2>
+        <ul className="list-disc list-inside">
+          {jonathanSanso[0].pronouns.map((pronoun, index) => (
+            <li key={index}>{pronoun}</li>
+          ))}
+        </ul>
+      </div>
+      <div className="mb-4">
+        <h2 className="text-xl font-semibold">Technologies</h2>
+        <ul className="list-disc list-inside">
+          {jonathanSanso[1].code.map((tech, index) => (
+            <li key={index}>{tech}</li>
+          ))}
+        </ul>
+      </div>
+      <div className="mb-4">
+        <h2 className="text-xl font-semibold">Living</h2>
+        <ul className="list-disc list-inside">
+          {jonathanSanso[2].living.map((interest, index) => (
+            <li key={index}>{interest}</li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  );
+};
+
+export default JonathanSanso;
 
 ```
 ## Who I´am - What i do:
