@@ -2,7 +2,7 @@
 **Ssr. Full-Stack Developer (React / Next.js / NestJS)** · **AI Engineering (NLP, OCR, Speech-to-Text)** · **Python ETL (Pandas)**  
 📍 Buenos Aires, Argentina · Remote · **English B2**
 
-<img src="https://github.com/jonathansansok/jonathansansok/blob/main/ban-oker?raw=true" />
+![Banner](./ban-oker.png)
 
 ---
 
