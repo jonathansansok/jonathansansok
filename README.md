@@ -2,7 +2,7 @@
 **Ssr. Full-Stack Developer (React / Next.js / NestJS)** · **AI Engineering (NLP, OCR, Speech-to-Text)** · **Python ETL (Pandas)**  
 📍 Buenos Aires, Argentina · Remote · **English B2**
 
-![Banner](./ban-ok.png)
+![Banner](./okban.png)
 
 ---
 
