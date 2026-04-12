@@ -1,116 +1,102 @@
-## Hi, I'm Jonathan Sansó 👋  
-**Ssr. Full-Stack Developer (React / Next.js / NestJS)** · **AI Engineering (NLP, OCR, Speech-to-Text)** · **Python ETL (Pandas)**  
-📍 Buenos Aires, Argentina · Remote · **English B2**
+<p align="center">
+  <img src="./banner.png" alt="Jonathan Sansó — Ssr. Full-Stack Developer" width="100%" />
+</p>
 
-![Banner](./banok2.png)
-
----
-
-### 🚀 What I do
-I build **production-grade web platforms** end-to-end: modern frontends, secure APIs, scalable databases, and DevOps-ready deployments.  
-I also integrate **AI in real products**, creating pipelines for **OCR, NLP summarization, and speech-to-text** that automate real workflows.
+<h3 align="center">Full-Stack Developer | React/Next.js, Node.js/NestJS | Multi-tenant SaaS (Supabase/Postgres RLS)</h3>
+<p align="center">Buenos Aires, Argentina · Remote · English B2</p>
 
 ---
 
-### 🧠 Core Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind, Bootstrap  
-- **Backend:** Node.js, NestJS, Express, Prisma, FastAPI  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Supabase  
-- **AI / Data:** Python, Pandas (ETL), Tesseract OCR, Whisper (STT), NLP pipelines  
-- **Infra:** Docker, NGINX, Debian Linux (self-managed), Git/GitHub  
+### What I do
+I build **multi-tenant SaaS products** end-to-end — from tenant-isolated backends with **Supabase RLS/Policies** to polished frontends with **Next.js + TypeScript + Tailwind**.  
+I also build **AI document intelligence pipelines** (OCR, NLP, Speech-to-Text) and deploy with **Docker, NGINX, AWS, and Terraform**.
 
 ---
 
-### 🏢 Experience Highlights (Production)
-**Argentine Federal Penitentiary Service (Jan 2024 – Present)**  
-- Lead developer of a **national-scale internal platform** across multiple penitentiary units.  
-- Built an **AI microservice (Python + FastAPI)** for **OCR + NLP + speech-to-text**, enabling smart autocompletion in institutional forms.  
-- Automated reporting workflows: **PDF / Excel / Word**, statistics, and advanced filtering.  
-- Implemented strong security: **Auth0 2FA, CSRF, rate limiting, sanitization**.  
-- Delivered stable deployments with **Docker + NGINX on Debian**, including automated backups.  
+### Core Stack
+| Layer | Technologies |
+|---|---|
+| **Frontend** | Next.js, React, TypeScript, Tailwind, Zustand, TanStack Query, Zod, ShadCN UI |
+| **Backend** | NestJS, Node.js, Prisma, FastAPI (Python), Express, GraphQL |
+| **Databases** | PostgreSQL (Supabase RLS, Triggers, RPC), MySQL, MongoDB, SQL Server, Redis |
+| **DevOps** | Docker, NGINX, AWS (EC2, RDS, S3, CloudFront), Terraform, Vercel, Git/GitHub |
+| **AI & Data** | Tesseract OCR, NLP, Speech-to-Text, Pandas, jsPDF, ExcelJS |
+| **Security** | Auth0, MFA/2FA, CSRF, Helmet/CORS, HMAC-SHA256, JWT, Rate Limiting |
 
 ---
 
-### ⚡ Projects
-🔗 **Portfolio:** https://portfolio-sanso-jonathan.netlify.app  
-🔗 **GitHub:** https://github.com/jonathansansok  
+### Experience
+
+**Ocean Stack** — Full-Stack Developer (Multi-tenant SaaS) · Dec 2025 – Present  
+_Products: Niappa POS | Oceans HR (ATS)_  
+- Multi-tenant isolation with **Supabase Postgres RLS/Policies** and RBAC across modules.  
+- Orders at scale: table sessions, split checks, resilient order lifecycle with transactional integrity.  
+- Built **Oceans HR ATS**: Kanban pipeline, drag-and-drop, recruitment funnel reports (Next.js 16, React 19, TanStack Query v5, @dnd-kit).  
+- Mercado Pago API integration, PDF/Excel reporting, full ES/EN i18n.
+
+**Argentine Federal Penitentiary Service** — Full-Stack Developer / AI Engineering · Jan 2024 – Present  
+- Led a **national-scale two-platform ecosystem** (internal ops + public verification portal).  
+- Built **AI document intelligence pipeline**: OCR + NLP + STT with human-in-the-loop review (Python, FastAPI).  
+- End-to-end security: MFA, CSRF, HMAC-SHA256, JWT, cryptographic document verification.  
+- Containerized deployments with **Docker + NGINX on Debian**, automated backups, Redis job queues (BullMQ).
+
+**VirtuaState** — Frontend Developer · May 2022 – Dec 2023  
+- Responsive marketing site for a VR/AR studio with SEO optimizations. [virtuastate.net](https://virtuastate.net)
 
 ---
 
-### 🌍 Contact
-- **WhatsApp:** https://wa.me/5491169123268  
-- **LinkedIn:** https://www.linkedin.com/in/jonathan-sanso-fullstack  
+### Projects
+| | |
+|---|---|
+| **Portfolio** | [portfolio-sanso-jonathan.netlify.app](https://portfolio-sanso-jonathan.netlify.app) |
+| **GitHub** | [github.com/jonathansansok](https://github.com/jonathansansok) |
+| **LinkedIn** | [linkedin.com/in/jonathan-sanso-fullstack](https://www.linkedin.com/in/jonathan-sanso-fullstack) |
+
+---
+
+### Contact
 - **Email:** jonasans2@live.com.ar  
-- Instagram: https://www.instagram.com/jon.sanso/  
-- Spotify: https://open.spotify.com/playlist/61gDxDScsKGSxY4wobXCya?si=87de56c5ccb64a81  
+- **WhatsApp:** [+54 9 11 6912-3268](https://wa.me/5491169123268)  
+- **LinkedIn:** [jonathan-sanso-fullstack](https://www.linkedin.com/in/jonathan-sanso-fullstack)
 
 ---
 
-### About me in code
 ```ts
-type JonathanSanso = {
-  role: string;
-  english: "B2";
-  focus: string[];
-  stack: {
-    frontend: string[];
-    backend: string[];
-    databases: string[];
-    ai_data: string[];
-    infra: string[];
-  };
-};
-
-export const jonathanSanso: JonathanSanso = {
+const jonathanSanso = {
   role: "Ssr. Full-Stack Developer",
   english: "B2",
-  focus: ["Product-minded delivery", "Security", "Performance", "AI in production"],
+  focus: ["Multi-tenant SaaS", "Security-first architecture", "AI in production", "Product-minded delivery"],
   stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind", "Bootstrap"],
-    backend: ["Node.js", "NestJS", "Express", "Prisma", "FastAPI"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Supabase"],
-    ai_data: ["Python", "Pandas (ETL)", "Tesseract (OCR)", "Whisper (STT)", "NLP pipelines"],
-    infra: ["Docker", "NGINX", "Debian Linux", "Git/GitHub"],
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind", "Zustand", "TanStack Query", "ShadCN UI"],
+    backend: ["NestJS", "Node.js", "Prisma", "FastAPI", "Express", "GraphQL"],
+    databases: ["PostgreSQL (Supabase RLS)", "MySQL", "MongoDB", "Redis", "SQL Server"],
+    ai_data: ["Tesseract OCR", "NLP", "Speech-to-Text", "Pandas", "jsPDF", "ExcelJS"],
+    infra: ["Docker", "NGINX", "AWS", "Terraform", "Debian Linux", "Vercel"],
+    security: ["Auth0", "MFA/2FA", "CSRF", "HMAC-SHA256", "JWT", "Rate Limiting"],
   },
-};
+} as const;
 ```
 
 ---
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" /></a>
+  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" /></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+  <a href="https://www.prisma.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
+  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
+  <a href="https://www.nginx.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
 </p>
 
-[![jonathansansok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansansok)](https://github.com/jonathansansok)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathansansok&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
