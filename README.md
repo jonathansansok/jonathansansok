@@ -28,7 +28,7 @@ I also build **AI document intelligence pipelines** (OCR, NLP, Speech-to-Text) a
 ### Experience
 
 **Ocean Stack** — Full-Stack Developer (Multi-tenant SaaS) · Dec 2025 – Present  
-_Products: Niappa POS | Oceans HR (ATS)_  
+_Products: [Niappa POS](https://niappa-restaurant.vercel.app/) | [Oceans HR (ATS)](https://oceans-hr.vercel.app/)_  
 - Multi-tenant isolation with **Supabase Postgres RLS/Policies** and RBAC across modules.  
 - Orders at scale: table sessions, split checks, resilient order lifecycle with transactional integrity.  
 - Built **Oceans HR ATS**: Kanban pipeline, drag-and-drop, recruitment funnel reports (Next.js 16, React 19, TanStack Query v5, @dnd-kit).  
@@ -41,16 +41,20 @@ _Products: Niappa POS | Oceans HR (ATS)_
 - Containerized deployments with **Docker + NGINX on Debian**, automated backups, Redis job queues (BullMQ).
 
 **VirtuaState** — Frontend Developer · May 2022 – Dec 2023  
-- Responsive marketing site for a VR/AR studio with SEO optimizations. [virtuastate.net](https://virtuastate.net)
+- Responsive marketing site for a VR/AR studio with SEO optimizations. [virtuastate.net](https://www.virtuastate.net/)
 
 ---
 
-### Projects
+### Live Projects & Links
 | | |
 |---|---|
-| **Portfolio** | [portfolio-sanso-jonathan.netlify.app](https://portfolio-sanso-jonathan.netlify.app) |
-| **GitHub** | [github.com/jonathansansok](https://github.com/jonathansansok) |
-| **LinkedIn** | [linkedin.com/in/jonathan-sanso-fullstack](https://www.linkedin.com/in/jonathan-sanso-fullstack) |
+| **Portfolio** | [portfolio-sanso-jonathan.netlify.app](https://portfolio-sanso-jonathan.netlify.app/) |
+| **Niappa POS** | [niappa-restaurant.vercel.app](https://niappa-restaurant.vercel.app/) |
+| **Oceans HR** | [oceans-hr.vercel.app](https://oceans-hr.vercel.app/) |
+| **VirtuaState** | [virtuastate.net](https://www.virtuastate.net/) |
+| **E-Commerce React** | [react-e-commerce-j-sanso.vercel.app](https://react-e-commerce-j-sanso.vercel.app/) |
+| **LinkedIn** | [jonathan-sanso-fullstack](https://www.linkedin.com/in/jonathan-sanso-fullstack/) |
+| **GitHub** | [jonathansansok](https://github.com/jonathansansok) |
 
 ---
 
