@@ -9,7 +9,7 @@
 
 ### What I do
 I build **multi-tenant SaaS products** end-to-end — from tenant-isolated backends with **Supabase RLS/Policies** to polished frontends with **Next.js + TypeScript + Tailwind**.  
-I also build **AI document intelligence pipelines** (OCR, NLP, Speech-to-Text) and deploy with **Docker, NGINX, AWS, and Terraform**.
+I also build **AI document intelligence pipelines** (OCR, NLP, Speech-to-Text), **LLM-powered features** (Gemini API with multi-model cascade), and deploy with **Docker, NGINX, AWS, and Terraform**.
 
 ---
 
@@ -20,7 +20,7 @@ I also build **AI document intelligence pipelines** (OCR, NLP, Speech-to-Text) a
 | **Backend** | NestJS, Node.js, Prisma, FastAPI (Python), Express, GraphQL |
 | **Databases** | PostgreSQL (Supabase RLS, Triggers, RPC), MySQL, MongoDB, SQL Server, Redis |
 | **DevOps** | Docker, NGINX, AWS (EC2, RDS, S3, CloudFront), Terraform, Vercel, Git/GitHub |
-| **AI & Data** | Tesseract OCR, NLP, Speech-to-Text, Pandas, jsPDF, ExcelJS |
+| **AI & Data** | Gemini API (LLM cascade), Tesseract OCR, NLP, Speech-to-Text, Pandas, jsPDF, ExcelJS |
 | **Security** | Auth0, MFA/2FA, CSRF, Helmet/CORS, HMAC-SHA256, JWT, Rate Limiting |
 
 ---
@@ -32,6 +32,7 @@ _Products: [Niappa POS](https://niappa-restaurant.vercel.app/) | [Oceans HR (ATS
 - Multi-tenant isolation with **Supabase Postgres RLS/Policies** and RBAC across modules.  
 - Orders at scale: table sessions, split checks, resilient order lifecycle with transactional integrity.  
 - Built **Oceans HR ATS**: Kanban pipeline, drag-and-drop, recruitment funnel reports (Next.js 16, React 19, TanStack Query v5, @dnd-kit).  
+- Engineered **AI-Powered CV Matching Engine**: LLM integration (Gemini API with 3-model cascade fallback for HA), PDF text extraction, weighted scoring across 8 criteria (skills, seniority, role, education, location, salary, language, industry), structured JSON output, drag-and-drop upload, color-coded score cards, per-criteria progress bars, and automated candidate creation pipeline.  
 - Mercado Pago API integration, PDF/Excel reporting, full ES/EN i18n.
 
 **Argentine Federal Penitentiary Service** — Full-Stack Developer / AI Engineering · Jan 2024 – Present  
@@ -74,7 +75,7 @@ const jonathanSanso = {
     frontend: ["Next.js", "React", "TypeScript", "Tailwind", "Zustand", "TanStack Query", "ShadCN UI"],
     backend: ["NestJS", "Node.js", "Prisma", "FastAPI", "Express", "GraphQL"],
     databases: ["PostgreSQL (Supabase RLS)", "MySQL", "MongoDB", "Redis", "SQL Server"],
-    ai_data: ["Tesseract OCR", "NLP", "Speech-to-Text", "Pandas", "jsPDF", "ExcelJS"],
+    ai_data: ["Gemini API (LLM cascade)", "Tesseract OCR", "NLP", "Speech-to-Text", "Pandas", "jsPDF", "ExcelJS"],
     infra: ["Docker", "NGINX", "AWS", "Terraform", "Debian Linux", "Vercel"],
     security: ["Auth0", "MFA/2FA", "CSRF", "HMAC-SHA256", "JWT", "Rate Limiting"],
   },
