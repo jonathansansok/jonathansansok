@@ -2,14 +2,14 @@
   <img src="./banner.png" alt="Jonathan Sansó — Ssr. Full-Stack Developer" width="100%" />
 </p>
 
-<h3 align="center">Full-Stack Developer | React/Next.js, Node.js/NestJS | Multi-tenant SaaS (Supabase/Postgres RLS)</h3>
+<h3 align="center">Full-Stack Developer | AI Engineering (Gemini LLM, OCR/NLP/STT) | Multi-tenant SaaS (Supabase/Postgres RLS)</h3>
 <p align="center">Buenos Aires, Argentina · Remote · English B2</p>
 
 ---
 
 ### What I do
-I build **multi-tenant SaaS products** end-to-end — from tenant-isolated backends with **Supabase RLS/Policies** to polished frontends with **Next.js + TypeScript + Tailwind**.  
-I also build **AI document intelligence pipelines** (OCR, NLP, Speech-to-Text), **LLM-powered features** (Gemini API with multi-model cascade), and deploy with **Docker, NGINX, AWS, and Terraform**.
+**4+ years** building **multi-tenant SaaS products** end-to-end — from tenant-isolated backends with **Supabase RLS/Policies** to polished frontends with **Next.js + TypeScript + Tailwind**.  
+I also build **AI document intelligence pipelines** (Tesseract OCR, NLP, Speech-to-Text), **LLM-powered features** (Google Gemini API with 3-model cascade fallback for HA), and deploy with **Docker, NGINX, AWS, and Terraform**. Mercado Pago integration.
 
 ---
 
@@ -85,23 +85,31 @@ const jonathanSanso = {
 ---
 
 <p align="center">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://nextjs.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /><img src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" width="40" height="40" /></picture></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" /></a>
-  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40" /></a>
-  <a href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/white" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /><img src="https://cdn.simpleicons.org/express/white" alt="express" width="40" height="40" /></picture></a>
-  <a href="https://www.prisma.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" /></a>&nbsp;
+  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40" /></a>&nbsp;
+  <a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/white" alt="express" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.prisma.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>&nbsp;
+  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>&nbsp;
   <a href="https://www.nginx.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathansansok&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <a href="https://github.com/jonathansansok">
+    <img src="https://github-readme-stats.vercel.app/api?username=jonathansansok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jonathansansok">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansansok&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
