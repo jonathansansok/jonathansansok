@@ -84,32 +84,10 @@ const jonathanSanso = {
 
 ---
 
-<p align="center">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>&nbsp;
-  <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" /></a>&nbsp;
-  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40" /></a>&nbsp;
-  <a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/white" alt="express" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.prisma.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>&nbsp;
-  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>&nbsp;
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>&nbsp;
-  <a href="https://www.nginx.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
-</p>
+<p align="center"><a href="https://reactjs.org/"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" height="40" /></a> <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/white" alt="nextjs" height="40" /></a> <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" height="40" /></a> <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" height="40" /></a> <a href="https://nestjs.com/"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="nestjs" height="40" /></a> <a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/white" alt="express" height="40" /></a> <a href="https://www.prisma.io/"><img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" height="40" /></a> <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" height="40" /></a> <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" height="40" /></a> <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="mongodb" height="40" /></a> <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" height="40" /></a> <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="redis" height="40" /></a> <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" alt="python" height="40" /></a> <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="aws" height="40" /></a> <a href="https://www.nginx.com/"><img src="https://cdn.simpleicons.org/nginx/009639" alt="nginx" height="40" /></a></p>
 
-<p align="center">
-  <a href="https://github.com/jonathansansok">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonathansansok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-</p>
+<p align="center"><a href="https://github.com/jonathansansok"><img src="https://img.shields.io/github/followers/jonathansansok?style=for-the-badge&logo=github&label=Followers&color=0d1117" alt="Followers" /></a> <a href="https://github.com/jonathansansok?tab=repositories"><img src="https://img.shields.io/github/stars/jonathansansok?style=for-the-badge&logo=github&label=Stars&color=0d1117" alt="Stars" /></a> <a href="https://github.com/jonathansansok"><img src="https://komarev.com/ghpvc/?username=jonathansansok&style=for-the-badge&color=0d1117&label=Profile+Views" alt="Profile Views" /></a></p>
 
-<p align="center">
-  <a href="https://github.com/jonathansansok">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansansok&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<p align="center"><a href="https://github.com/jonathansansok"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansansok&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a></p>
+
+<p align="center"><a href="https://github.com/jonathansansok"><img src="https://github-profile-trophy.vercel.app/?username=jonathansansok&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" /></a></p>
