@@ -27,7 +27,7 @@ I also build **AI document intelligence pipelines** (Tesseract OCR, NLP, Speech-
 
 ### Experience
 
-**Ocean Stack** — Full-Stack Developer (Multi-tenant SaaS) · Dec 2025 – Present  
+**Ocean Stack** — Full-Stack Developer (Multi-tenant SaaS) · Dec 2025 – Jun 2026  
 _Products: [Niappa POS](https://niappa-restaurant.vercel.app/) | [Oceans HR (ATS)](https://oceans-hr.vercel.app/)_  
 - Multi-tenant isolation with **Supabase Postgres RLS/Policies** and RBAC across modules.  
 - Orders at scale: table sessions, split checks, resilient order lifecycle with transactional integrity.  
